@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 
-public class black {
+public class Blackjack {
 
     //Picking random cards
     public static int random_card (int[] array) {
